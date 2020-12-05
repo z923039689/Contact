@@ -1,0 +1,14 @@
+Reading week
+
+1. review class matriel -2h
+
+2. kotlin code learning online -4h
+
+3. kotlin code programming -3h
+    -implement Adapter 
+    -debug 
+
+4.discord meeting -3h
+   -D2 wirtten
+ 
+

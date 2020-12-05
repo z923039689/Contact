@@ -1,0 +1,9 @@
+
+1. Kotlin code programming  - 3h
+   -add callback function
+   -add new icon for delete
+   -implement swipe delete move successful on my simluator
+   -try to find how to implement my part to teammate parts
+
+2. discord meeting -1h
+   -progress report, D4 planning

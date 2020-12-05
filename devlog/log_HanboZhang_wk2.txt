@@ -1,0 +1,11 @@
+1. research to functional properties and non-functional properties 1h
+
+2. kotlin lanuage learning 4h
+
+3. contact and profile Ui create 1.5h
+
+4. build local database for contact 1h
+
+5. discord meeting 1h 
+   - next step dicuss and progress report
+

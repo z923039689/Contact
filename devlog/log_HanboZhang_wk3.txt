@@ -1,0 +1,7 @@
+1.Kotlin code learning 2h
+
+2.Kotlin code programing 3h
+   - implement contact list add button and notification
+
+3. dicord meeting 1h- progress report
+   

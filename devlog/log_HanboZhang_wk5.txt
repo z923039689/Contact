@@ -1,0 +1,6 @@
+1. Kotlin programming  4h
+   -user profile page
+   -get user data
+   -contact page and user page swipe
+
+2. discord meeting - progress report 1h

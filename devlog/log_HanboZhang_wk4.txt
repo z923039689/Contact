@@ -1,0 +1,7 @@
+1.Kotlin code programming 4h
+  -contact profile build
+  -kotlin dependencies learning
+  -try to build Adapter 
+
+2. discord meeting- progress report 1h
+  

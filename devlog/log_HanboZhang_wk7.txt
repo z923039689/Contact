@@ -1,0 +1,7 @@
+1. Kotlin code learning- 1.5h
+   -fix and change some UI details
+ 
+
+2. discord meeting 1h
+   -progress report
+   -discuss next step and any non-functional element we need 
